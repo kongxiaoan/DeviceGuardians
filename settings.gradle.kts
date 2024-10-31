@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "DeviceGuardians"
 include(":app")
- 
+include(":DeviceGuardians")
